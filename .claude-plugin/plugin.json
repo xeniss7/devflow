@@ -1,0 +1,8 @@
+{
+  "name": "devflow",
+  "description": "Chaîne agentique de développement : spec, conception, tests, code, review et mentorat",
+  "version": "0.1.0",
+  "author": {
+    "name": "Benjamin Magnier"
+  }
+}
